@@ -2,15 +2,17 @@
 
 ## C-1
 
-### project title : sprint0
+### project title : 
+  sprint0
 
 ### about:
 
-Omar Saleh            37-15763
-Ahmed Ali             37-6145
-Yara Dorgham          37-2464
-Abdelrahman ElHamahmi 37-15881
-Khaled Ahmed          37-8970
+  Omar Saleh            37-15763
+  Ahmed Ali             37-6145
+  Yara Dorgham          37-2464
+  Abdelrahman ElHamahmi 37-15881
+  Khaled Ahmed          37-8970
 
 
-### purpose of the repo : to get started using github
+### purpose of the repo : 
+  To get started using github
