@@ -2,13 +2,7 @@
 
 project title : sprint0
 
-about: 
-
-
-
-
-
-Nourhan Ashraf 37-5066
-
-
-purpose of the repo : to get started using github
+about : 
+Ahmed El Midany 37-4940
+purpose:
+getting started in github
