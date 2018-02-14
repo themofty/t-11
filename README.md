@@ -2,6 +2,7 @@
 
 project title : sprint0
 
-about: 
+about: Ahmed Alaa 37-10569
 
 purpose of the repo : to get started using github
+
