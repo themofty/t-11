@@ -1,7 +1,12 @@
-# t-11
+# T-11
 
-project title : sprint0
+* **Project title : Sprint0**
 
-about: 
+* **Authors:** 
 
-purpose of the repo : to get started using github
+    Ahmad Sameh 34-15764
+    
+    
+* **purpose of the repo :**
+    
+    To get started using github.
