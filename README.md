@@ -1,14 +1,8 @@
-# T-11
+# t-11
 
-* **Project title : Sprint0**
+project title : sprint0
 
-* **Authors:** 
+about: 
+Omar El-gamml 37-7218
 
-    Ahmad Sameh 34-15764 ,
-    Ibraam Emad 37-6983 ,
-    
-    
-    
-* **purpose of the repo :**
-    
-    To get started using github.
+purpose of the repo : to get started using github
