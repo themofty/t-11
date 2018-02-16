@@ -15,4 +15,4 @@
 
 
 ### purpose of the repo : 
-  To get started using github
+  To get started using github.
